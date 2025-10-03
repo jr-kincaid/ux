@@ -1,0 +1,8 @@
+{
+  "installation": {
+    "version": "21.6.3",
+    "plugins": {
+      "@nx/storybook": "21.6.3"
+    }
+  }
+}
